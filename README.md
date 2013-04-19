@@ -1,7 +1,11 @@
 ny-hearts-boston
 ================
 
-Milton Glaser-esque "NY ❤  B" in SVG format.
+![NY hearts Boston
+PNG](https://raw.github.com/jazzcrazed/ny-hearts-boston/master/ny-hearts-boston-2x.png)
+
+Milton Glaser-esque "NY ❤  B" in SVG, PNG, and
+[WebP](https://developers.google.com/speed/webp/) formats.
 
 In honor of the unimaginable tragedy at the 2013 Boston Marathon, I
 did this logo mash-up to express my solidarity, and surely all of New
